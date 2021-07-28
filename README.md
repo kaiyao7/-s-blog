@@ -1,2 +1,3 @@
-# -s-blog
-脑子里的东西
+# 这里是阿楷的<s>repository</s> Blog(serious.)
+
+用来记录
